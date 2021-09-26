@@ -13,7 +13,7 @@ This challenge consists of three technical deliverables.
 2. Use the model-fit-predict pattern to compile 
 3. evaluate a binary classification model.
 
-**Optimize the model.
+**Optimize the model**
 
 Instructions:
 The steps for this challenge are broken out into the following sections:
